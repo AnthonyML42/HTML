@@ -1,16 +1,16 @@
 body {
-  color:blue
+  color: blue;
 }
 
 h1 {
-  color:red
+  color: red;
 }
 
 h2 {
-  color:orange
+  color: orange;
 }
 
 p {
-  color:purple
-  background-color:yellow
+  color: purple;
+  background-color: yellow;
 }
