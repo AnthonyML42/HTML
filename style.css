@@ -1,1 +1,10 @@
+head
+{
+  color:cyan;
+}
 
+h2
+{
+  border-width: medium;
+  border-style: dashed;
+}
