@@ -3,6 +3,13 @@ head
   color:cyan;
 }
 
+p
+{
+  font-family: sans-serif;
+  
+}
+
+
 h2
 {
   border-width: medium;
