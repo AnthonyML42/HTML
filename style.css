@@ -1,7 +1,16 @@
 head
 {
   color:cyan;
+  background-color: red;
 }
+
+p
+{
+  font-family: sans-serif;
+  color: green;
+
+}
+
 
 h2
 {
